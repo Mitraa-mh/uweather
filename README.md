@@ -1,4 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<br/>
+<br/>
 <img src="https://github.com/Mitraa-mh/uweather/blob/main/Screenshot.png?raw=true"/>
 
 ## Getting Started
